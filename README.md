@@ -15,7 +15,7 @@ src/main/java/com/evelina/bookstore
 ├── mapper       # преобразование Entity в DTO
 ├── repository   # Spring Data JPA репозитории
 └── service      # бизнес-логика
-
+```
 ## Запуск проекта
 
 ### 1. Запустить PostgreSQL
